@@ -8,7 +8,7 @@ Clone from Github:
 git clone https://github.com/monokai-pro/my-app.git
 ```
 
-#### Activating theme
+### Activating theme
 
 1. Copy the files
 2. Activate theme

@@ -13,10 +13,14 @@ When creating your own Community Edition, you can clone this GitHub repository a
 - [`README.md`](README.md): text for GitHub
 - [`LICENSE.md`](LICENSE.md): Monokai Pro (CE) license
 - [`INSTALL.md`](INSTALL.md): installation instructions for your theme
-- [`screenshot.png`](screenshot.png): a high-res screenshot of your theme (minimum 2048px wide)
+- [`screenshot.png`](screenshot.png): a high-res screenshot of your themed app (minimum 2048px wide, only the app, no window chrome, no extra graphics)
 - [`icon.png`](icon.png): icon of the app you're creating your theme for (minimum 1024px wide, centered and padded)
 
+### Notes
+
 Be sure to double-check your content, as some of it will be incorporated on the [Monokai Pro website](https://monokai.pro)
+
+For INSTALL.md, the h1 and h2 headers will be discarded.
 
 ## Submit your Monokai Pro (CE) theme
 
